@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/fear.wav-7de121ab0b4f26b1953c822e79e870c5.sample"
+
+[deps]
+
+source_file="res://Effects/fear.wav"
+dest_files=[ "res://.import/fear.wav-7de121ab0b4f26b1953c822e79e870c5.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

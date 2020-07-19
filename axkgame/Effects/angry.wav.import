@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/angry.wav-2532d171f870b01c30f085bca67bdfdd.sample"
+
+[deps]
+
+source_file="res://Effects/angry.wav"
+dest_files=[ "res://.import/angry.wav-2532d171f870b01c30f085bca67bdfdd.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
